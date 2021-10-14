@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arthurmasterdevelop
-- 👀 I’m interested in PHP, Frameworks (CodeIgniter e Laravel), JavaScript, ReactJS, NodeJS, React Native, Python, Angular... 
+- 👀 I’m interested in PHP, Frameworks (CodeIgniter, Laravel e ThurimPHP), JavaScript, ReactJS, NodeJS, React Native, Python, Angular... 
 - 🌱 I'm currently perfecting NodeJS, ReactJS e React Native.
 - 💞️ I am looking to collaborate on projects of my interest
 - 📫 How to reach me arthur.masterdevelop@gmail.com
