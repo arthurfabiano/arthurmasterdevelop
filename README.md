@@ -1,7 +1,7 @@
 <div>
   <p align="center">
 - 👋 Hi, I’m @arthurmasterdevelop<br/>
-- 🌱 I'm currently perfecting NodeJS, ReactJS e React Native.<br/>
+- 🌱 I'm currently perfecting VueJS, RabbitMQ, Redis e Flutter.<br/>
 - 💞️ I am looking to collaborate on projects of my interest<br/>
 - 📫 How to reach me arthur.masterdevelop@gmail.com<br/>
 </p>
