@@ -1,6 +1,6 @@
 <div>
   <p align="center">
-- 👋 Hi, I’m @arthurmasterdevelop<br/>
+- 👋 Hi, I’m @arthurfabiano<br/>
 - 🌱 I'm currently perfecting VueJS, RabbitMQ, Redis e Flutter.<br/>
 - 💞️ I am looking to collaborate on projects of my interest<br/>
 - 📫 How to reach me arthur.masterdevelop@gmail.com<br/>
@@ -21,9 +21,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/arthurmasterdevelop">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurmasterdevelop&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmasterdevelop&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/arthurfabiano">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurfabiano&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfabiano&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/arthurmasterdevelop/arthurmasterdevelop/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/arthurfabiano/arthurfabiano/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
